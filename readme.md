@@ -1,9 +1,7 @@
 <h1 align="center"> Primeiro projeto  </h1>
 
 <p align="center">
-primeiro projeto para um cartao de visita com links  que eu realizei graças ao curso gratuito  promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
+primeiro projeto para um cartao de visita com links  que eu realizei graças ao curso gratuito  promovido pela Rocketseat para ensino de tecnologias WEB. </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -35,9 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto  é um agregador de links para usar como cartão de visitas online no meu site.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://vivianrcc.github.io/projeto/)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 
@@ -47,6 +44,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
