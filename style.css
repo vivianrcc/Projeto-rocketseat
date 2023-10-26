@@ -5,23 +5,32 @@
 }
 
 :root {
+
   --text-color: pink;
-  --bg-url:url(./assets/assets/bg-mobile.jpg);
+  --bg-url: url(./assets/assets/bg-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.5);
   --surface-color-hover: rgba(0, 0, 0, 0.2);
   --higlight-color: rgba(255, 255, 255, 0.2);
-  --switch-bg-url:url(./assets/assets/moon-stars.svg);
+  --switch-bg-url: url(./assets/assets/sun.svg);
 }
+
+
+
  .light {
+
   --text-color: black;
-  --bg-url: url(./assets/assets/bg-mobile-light.jpg);
+  --bg-url:url(./assets/assets/bg-mobile-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.5);
   --surface-color-hover: rgba(0, 0, 0, 0.2);
   --higlight-color: rgba(0, 0, 0, 0.1);
-  --switch-bg-url: url(./assets/assets/sun.svg);
+  --switch-bg-url:url(./assets/assets/moon-stars.svg);
 }
+
+
+
+
 body {
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
@@ -126,7 +135,7 @@ ul li a {
   text-decoration: none;
   font-weight:500;
 
-  transition:background 0,2;
+  transition: background 0,2;
 }
 /* pseudo-selector */
 ul li a:hover {
@@ -162,17 +171,15 @@ footer {
 }
 
 /*media queries */
+
 @media (min-width:700px) {
 
-  :root {
-    --bg-url: url(.//assets/assets/bg-desktop.jpg);
-  }
-   
-  .light{
-    --bg-url: url(./assets/assets/bg-desktop-light.jpg);
+:root {--bg-url: url(./assets/assets/bg-desktop.jpg)}  
 
-  }
-}
+  
+ .light{--bg-url: url(./assets/assets/bg-desktop-light.jpg)}
+
+} 
 
 /* animation */
 @keyframes slide-in {
@@ -180,8 +187,7 @@ footer {
   from {
     left: 0;}
   to {
-    left: 50%;
-  }
+    left: 50%;}
   }
 
 @keyframes slide-back {

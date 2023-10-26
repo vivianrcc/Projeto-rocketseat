@@ -1,7 +1,7 @@
 <h1 align="center"> Primeiro projeto  </h1>
 
 <p align="center">
-primeiro projeto para criaçao de sites que eu realizei graças ao curso gratuito  promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+primeiro projeto para um cartao de visita com links  que eu realizei graças ao curso gratuito  promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
@@ -18,8 +18,8 @@ primeiro projeto para criaçao de sites que eu realizei graças ao curso gratuit
 
 <br>
 
-<p align="auto-center">
-  <img alt="projeto DevLinks" src="./assets/assets/projeto1imgmobile.png.png" width="100">
+<p align="center"> 
+  <img  alt="projeto DevLinks" src="./assets/assets/projeto1imgmobile.png.png" width="100">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Este projeto  é um agregador de links para usar como cartão de visitas online no meu site.
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
