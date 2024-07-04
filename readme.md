@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto  é um agregador de links para usar como cartão de visitas online no meu site.
 
-- [Acesse o projeto finalizado, online](https://vivianrcc.github.io/projeto/)
+- [Acesse o projeto finalizado, online](https://vivianrcc.github.io/Projeto-rocketseat/)
 
 
 ## 🔖 Layout
